@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 699cbdbfb99bf30408302dcb42c5cc72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 142041
+  packageName: Tropical reef fish
+  packageVersion: 1.0
+  assetPath: Assets/Tropical reef fish/scripts/ShoalManager.cs
+  uploadId: 300151
